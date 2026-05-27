@@ -1,0 +1,103 @@
+{
+  "common": {
+    "appName": "DataPilot",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search...",
+    "noResults": "No results found",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "success": "Success",
+    "error": "Error"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginSuccess": "Login successful",
+    "registerSuccess": "Account created successfully",
+    "logout": "Sign Out",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithMicrosoft": "Continue with Microsoft",
+    "orDivider": "or",
+    "oauthError": "Authentication failed. Please try again.",
+    "oauthLoading": "Completing sign in..."
+  },
+  "nav": {
+    "home": "Home",
+    "dashboards": "Dashboards",
+    "queries": "Queries",
+    "datasets": "Datasets",
+    "collections": "Collections",
+    "databases": "Databases",
+    "admin": "Admin",
+    "settings": "Settings",
+    "profile": "Profile",
+    "users": "Users",
+    "permissions": "Permissions"
+  },
+  "dashboard": {
+    "title": "Dashboards",
+    "new": "New Dashboard",
+    "editMode": "Edit Mode",
+    "viewMode": "View Mode",
+    "addWidget": "Add Widget",
+    "unsavedChanges": "Unsaved changes",
+    "saved": "All changes saved",
+    "share": "Share",
+    "duplicate": "Duplicate",
+    "filters": "Filters",
+    "autoRefresh": "Auto Refresh"
+  },
+  "query": {
+    "title": "Queries",
+    "new": "New Query",
+    "run": "Run",
+    "save": "Save Query",
+    "results": "Results",
+    "history": "History",
+    "sqlEditor": "SQL Editor",
+    "visualBuilder": "Visual Builder",
+    "executionTime": "Execution time",
+    "rowCount": "rows"
+  },
+  "database": {
+    "title": "Database Connections",
+    "new": "New Connection",
+    "test": "Test Connection",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "schema": "Schema",
+    "tables": "Tables",
+    "columns": "Columns"
+  },
+  "collection": {
+    "title": "Collections",
+    "new": "New Collection",
+    "root": "Root"
+  },
+  "dataset": {
+    "title": "Datasets",
+    "upload": "Upload Dataset",
+    "preview": "Preview",
+    "clean": "Clean Data",
+    "profile": "Profile",
+    "analyze": "Analyze",
+    "finalize": "Finalize",
+    "store": "Store Dataset",
+    "noDatasets": "No datasets yet",
+    "uploadFirst": "Upload your first dataset to get started"
+  }
+}

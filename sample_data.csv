@@ -1,0 +1,16 @@
+id,name,email,department,salary,hire_date,is_active
+1,Ahmed Hassan,ahmed@example.com,Engineering,8500,2022-01-15,true
+2,Sara Ali,sara@example.com,Marketing,6200,2021-06-20,true
+3,Mohammed Omar,mohammed@example.com,Engineering,9200,2020-03-10,true
+4,Fatima Khalid,fatima@example.com,HR,5500,2023-02-28,true
+5,Youssef Nabil,youssef@example.com,Sales,7100,2021-11-05,true
+6,Noor Ahmed,noor@example.com,Engineering,8800,2022-07-18,true
+7,Omar Saeed,omar@example.com,Marketing,6500,2020-09-22,false
+8,Layla Ibrahim,layla@example.com,Finance,7800,2021-04-12,true
+9,Khaled Mostafa,khaled@example.com,Sales,6900,2022-10-30,true
+10,Hana Youssef,hana@example.com,HR,5200,2023-05-14,true
+11,Tariq Adel,tariq@example.com,Engineering,9500,2019-08-25,true
+12,Mona Fathy,mona@example.com,Finance,8100,2020-12-01,true
+13,Rami Hassan,rami@example.com,Sales,7300,2021-03-17,false
+14,Dina Kamal,dina@example.com,Marketing,6800,2022-06-09,true
+15,Amr Zaki,amr@example.com,Engineering,8900,2021-09-28,true

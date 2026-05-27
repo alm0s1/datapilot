@@ -1,0 +1,51 @@
+employee_id,full_name,email,age,gender,department,position,hire_date,birth_date,salary,phone,rating,office,is_active,projects_count
+EMP001,Ahmed Al-Rashidi,ahmed.rashidi@company.com,35,Male,Engineering,Senior Developer,2020-03-15,1989-05-20,4500.00,+968 9123 4567,Excellent,Muscat,Yes,8
+EMP002,Sara Mohammed,sara.m@company.com,28,Female,HR,HR Specialist,2021-07-01,1996-02-14,3200.00,+968 9234 5678,Good,Muscat,Yes,5
+EMP003,khalid hassan,khalid.h@company,42,male,engineering,Team Lead,15/06/2019,1982-11-03,5800.00,+968 9345 6789,Excellent,Salalah,Yes,12
+EMP004,Fatima Al-Balushi,fatima.b@company.com,-3,Female,Finance,Accountant,2022-01-10,1994-08-25,3800.00,+968 9456 7890,Good,Muscat,Yes,4
+EMP005,Mohammed Said,mohammed.s@company.com,55,Male,Operations,Operations Manager,2018-04-20,1969-01-15,6200.00,968 9567 8901,excellent,Salalah,yes,15
+EMP006,Aisha Khalfan,N/A,31,FEMALE,hr,Recruiter,01/03/2023,1993-06-10,2900.00,+968 9678 9012,Good,Muscat,Yes,3
+EMP007,Omar Al-Habsi,omar.habsi@company.com,200,Male,Engineering,Developer,2023-06-15,1997-09-30,3500.00,+968 9789 0123,Average,Nizwa,Yes,6
+EMP008,Layla Said,,29,Female,Marketing,Marketing Analyst,March 5 2022,1995-04-18,3100.00,+968 9890 1234,good,Muscat,yes,7
+EMP009,Ali Al-Farsi,ali.farsi@company.com,38,Male,Finance,Financial Analyst,2019-11-25,1986-07-22,-2500.00,+968 9012 3456,Good,Salalah,Yes,9
+EMP010,Maryam Hassan,maryam.h@company.com,33,female,Engineering,QA Engineer,2021-02-14,1991-03-08,3600.00,+968 9123 4568,Excellent,Muscat,Yes,8
+EMP011,  Hassan Ali  ,hassan.ali@company.com,45,Male,Operations,Logistics Manager,2017-08-30,1979-12-01,5200.00,+968 9234 5679,Good,Nizwa,Yes,11
+EMP012,Zainab Mohammed,zainab@invalid,27,Female,HR,Training Coordinator,2023-09-01,1997-01-20,2800.00,+968 9345 6790,Average,Muscat,Yes,2
+EMP013,Salim Al-Rawahi,salim.r@company.com,999,Male,Engineering,DevOps Engineer,2022-05-10,1992-10-15,4200.00,+968 9456 7891,excellent,Salalah,Yes,10
+EMP014,Noora Al-Kindi,noora.k@company.com,26,Female,Marketing,Content Writer,2024-01-15,1998-05-30,2600.00,+968 9567 8902,Good,Muscat,yes,3
+EMP015,Yusuf Said,yusuf.s@company.com,41,,Engineering,Architect,2016-10-01,1983-08-12,7000.00,+968 9678 9013,Excellent,Muscat,Yes,18
+EMP016,Huda Al-Balushi,huda.b@company.com,30,Female,finance,Budget Analyst,2020-12-15,1994-02-28,3400.00,+968 9789 0124,Good,Salalah,Yes,6
+EMP017,Rashid Hassan,rashid.h@company.com,36,Male,Engineering,Senior Developer,2019-06-20,1988-04-10,4800.00,NULL,good,Muscat,Yes,9
+EMP018,Amina Said,amina.said@company.com,24,Female,HR,HR Assistant,2024-03-01,2030-07-15,2400.00,+968 9012 3457,Average,Nizwa,Yes,1
+EMP019,Ibrahim Al-Habsi,ibrahim@company.com,47,Male,Operations,operations manager,2015-05-10,1977-11-25,5500.00,+968 9123 4569,Excellent,Muscat,yes,14
+EMP020,Safiya Khalfan,safiya.k@company.com,29,Female,Marketing,Social Media Manager,2022-08-15,1995-09-03,3000.00,+968 9234 5680,Good,Salalah,Yes,5
+EMP021,Nasser Mohammed,nasser.m@company.com,52,Male,Finance,CFO,2014-01-20,1972-06-18,8500.00,+968 9345 6791,Excellent,Muscat,Yes,20
+EMP022,Raya Al-Farsi,raya.f@company.com,0,Female,Engineering,Intern,2024-06-01,2002-03-14,1200.00,+968 9456 7892,Average,Muscat,No,0
+EMP023,Hamad Said,hamad.s@company.com,34,Male,Engineering,Developer,2021-04-10,1990-08-22,3800.00,+968 9567 8903,Good,Nizwa,Yes,7
+EMP024,Wafa Al-Rawahi,wafa.r@company.com,39,Female,HR,HR Manager,2018-09-15,1985-01-30,5100.00,+968 9678 9014,excellent,Muscat,Yes,13
+EMP025,Tariq Hassan,tariq.h@company.com,31,Male,Marketing,Brand Manager,2020-07-01,1993-04-05,3900.00,+968 9789 0125,Good,Salalah,Yes,8
+EMP026,Sumaiya Al-Balushi,missing,44,Female,Finance,Senior Accountant,2017-03-25,1980-10-12,4600.00,+968 9890 1235,Good,Muscat,Yes,10
+EMP027,Faisal Khalfan,faisal.k@company.com,37,male,engineering,Tech Lead,2019-01-10,1987-12-20,5400.00,+968 9012 3458,Excellent,Muscat,Yes,16
+EMP028,Dalal Mohammed,dalal.m@company.com,25,Female,Operations,Supply Chain Analyst,2023-11-01,1999-07-08,2700.00,+968 9123 4570,Average,Nizwa,yes,2
+EMP029,Saeed Al-Habsi,saeed@,48,Male,Finance,Tax Specialist,2016-06-15,1976-03-22,4400.00,+968 9234 5681,Good,Salalah,Yes,9
+EMP030,Khadija Said,khadija.s@company.com,32,Female,HR,Payroll Specialist,2021-10-20,1992-05-17,3300.00,+968 9345 6792,Good,Muscat,Yes,6
+EMP031,Majid Al-Farsi,majid.f@company.com,40,Male,Engineering,Principal Engineer,2015-12-01,1984-09-28,6500.00,+968 9456 7893,Excellent,Muscat,Yes,19
+EMP032,Asma Hassan,asma.h@company.com,27,Female,Marketing,Graphic Designer,2023-03-15,1997-11-02,2500.00,+968 9567 8904,good,Salalah,Yes,4
+EMP033,Badr Mohammed,badr.m@company.com,56,Male,Operations,Director,2013-07-01,1968-02-10,9000.00,+968 9678 9015,Excellent,Muscat,Yes,22
+EMP034,Nawal Al-Kindi,nawal.k@company.com,33,female,Engineering,Data Engineer,2020-05-20,1991-08-14,4100.00,+968 9789 0126,Good,Nizwa,Yes,8
+EMP035,Adil Said,adil.s@company.com,29,Male,Finance,Junior Accountant,2022-09-01,1995-01-25,2200.00,+968 9890 1236,Average,Muscat,yes,3
+EMP036,Sana Al-Rawahi,sana.r@company.com,-15,Female,HR,Benefits Coordinator,2024-02-15,1996-06-30,2900.00,+968 9012 3459,Good,Muscat,Yes,2
+EMP037,Yaqoob Hassan,yaqoob.h@company.com,43,Male,Engineering,Security Engineer,2018-11-10,1981-04-18,4700.00,NA,excellent,Salalah,Yes,11
+EMP038,Lubna Al-Balushi,lubna.b@company.com,36,Female,marketing,Campaign Manager,2019-08-25,1988-12-05,3700.00,+968 9234 5682,Good,Muscat,Yes,9
+EMP039,Haitham Khalfan,haitham@company,50,Male,Operations,Warehouse Manager,2014-04-15,1974-07-20,4900.00,+968 9345 6793,Good,Nizwa,Yes,12
+EMP040,Ruqaya Mohammed,ruqaya.m@company.com,22,Female,Engineering,Junior Developer,2024-05-01,2002-10-08,2000.00,+968 9456 7894,Average,Muscat,Yes,1
+EMP041,Ahmed Al-Rashidi,ahmed.rashidi@company.com,35,Male,Engineering,Senior Developer,2020-03-15,1989-05-20,4500.00,+968 9123 4567,Excellent,Muscat,Yes,8
+EMP042,Saif Al-Habsi,saif.h@company.com,38,Male,Finance,Risk Analyst,2019-02-28,1986-11-15,4300.00,+968 9567 8905,Good,Muscat,Yes,10
+EMP043,Moza Said,moza.s@company.com,150,Female,HR,Chief HR Officer,2012-01-10,1975-03-25,7500.00,+968 9678 9016,Excellent,Muscat,Yes,25
+EMP044,Khalifa Al-Farsi,khalifa.f@company.com,41,Male,Engineering,Solutions Architect,2017-07-20,1983-05-12,5900.00,+968 9789 0127,excellent,Salalah,Yes,14
+EMP045,Sharifa Hassan,sharifa.h@company.com,28,Female,Marketing,SEO Specialist,2023-01-15,1996-08-30,2800.00,+968 9890 1237,Good,Nizwa,yes,4
+EMP046,Nabil Mohammed,nabil.m@company.com,46,Male,Operations,Quality Manager,2016-09-01,1978-04-08,5300.00,+968 9012 3460,Good,Muscat,Yes,13
+EMP047,Aziza Al-Kindi,  aziza.k@company.com  ,34,,finance,Internal Auditor,20/01/2020,1990-07-22,4000.00,+968 9123 4571,Good,Salalah,Yes,7
+EMP048,Muhannad Said,muhannad@notvalid,39,Male,Engineering,Fullstack Developer,2019-04-15,1985-02-18,4400.00,+968 9234 5683,good,Muscat,Yes,10
+EMP049,Buthaina Al-Rawahi,buthaina.r@company.com,26,Female,HR,Talent Acquisition,2023-07-01,1998-11-10,2600.00,+968 9345 6794,Average,Muscat,Yes,3
+EMP050,Hilal Hassan,hilal.h@company.com,53,Male,Finance,VP Finance,2013-11-20,1971-09-05,8000.00,+968 9456 7895,Excellent,Muscat,Yes,21

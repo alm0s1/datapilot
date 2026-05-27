@@ -1,0 +1,100 @@
+# ===========================
+# Python / Backend
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-link
+.installed.cfg
+lib/
+lib64/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.prod.example
+*.db
+*.sqlite3
+.Rhistory
+
+# ===========================
+# Node.js / Frontend
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm
+
+# ===========================
+# Next.js
+# ===========================
+.next/
+out/
+.vercel
+next-env.d.ts
+
+# ===========================
+# Build outputs
+# ===========================
+*.tsbuildinfo
+
+# ===========================
+# Docker
+# ===========================
+.docker/
+
+# ===========================
+# OS files
+# ===========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V3
+.Trashes
+Thumbs.db
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===========================
+# Test files & coverage
+# ===========================
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.pytest_cache/
+.mypy_cache/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+logs/
+
+# ===========================
+# Misc
+# ===========================
+.qoder/
+~$*.docx
+*.tmp

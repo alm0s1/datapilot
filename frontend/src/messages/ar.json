@@ -1,0 +1,103 @@
+{
+  "common": {
+    "appName": "DataPilot",
+    "loading": "...جاري التحميل",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "search": "...بحث",
+    "noResults": "لا توجد نتائج",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "success": "نجاح",
+    "error": "خطأ"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "username": "اسم المستخدم",
+    "fullName": "الاسم الكامل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "registerSuccess": "تم إنشاء الحساب بنجاح",
+    "logout": "تسجيل الخروج",
+    "continueWithGoogle": "المتابعة مع Google",
+    "continueWithMicrosoft": "المتابعة مع Microsoft",
+    "orDivider": "أو",
+    "oauthError": "فشل المصادقة. يرجى المحاولة مرة أخرى.",
+    "oauthLoading": "جاري إكمال تسجيل الدخول..."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "dashboards": "لوحات المعلومات",
+    "queries": "الاستعلامات",
+    "datasets": "مجموعات البيانات",
+    "collections": "المجموعات",
+    "databases": "قواعد البيانات",
+    "admin": "الإدارة",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "users": "المستخدمون",
+    "permissions": "الصلاحيات"
+  },
+  "dashboard": {
+    "title": "لوحات المعلومات",
+    "new": "لوحة جديدة",
+    "editMode": "وضع التعديل",
+    "viewMode": "وضع العرض",
+    "addWidget": "إضافة عنصر",
+    "unsavedChanges": "تغييرات غير محفوظة",
+    "saved": "تم حفظ جميع التغييرات",
+    "share": "مشاركة",
+    "duplicate": "تكرار",
+    "filters": "المرشحات",
+    "autoRefresh": "تحديث تلقائي"
+  },
+  "query": {
+    "title": "الاستعلامات",
+    "new": "استعلام جديد",
+    "run": "تشغيل",
+    "save": "حفظ الاستعلام",
+    "results": "النتائج",
+    "history": "السجل",
+    "sqlEditor": "محرر SQL",
+    "visualBuilder": "منشئ مرئي",
+    "executionTime": "وقت التنفيذ",
+    "rowCount": "صفوف"
+  },
+  "database": {
+    "title": "اتصالات قواعد البيانات",
+    "new": "اتصال جديد",
+    "test": "اختبار الاتصال",
+    "connected": "متصل",
+    "disconnected": "غير متصل",
+    "schema": "المخطط",
+    "tables": "الجداول",
+    "columns": "الأعمدة"
+  },
+  "collection": {
+    "title": "المجموعات",
+    "new": "مجموعة جديدة",
+    "root": "الجذر"
+  },
+  "dataset": {
+    "title": "مجموعات البيانات",
+    "upload": "رفع مجموعة بيانات",
+    "preview": "معاينة",
+    "clean": "تنظيف البيانات",
+    "profile": "تحليل البيانات",
+    "analyze": "تحليل",
+    "finalize": "إنهاء",
+    "store": "تخزين مجموعة البيانات",
+    "noDatasets": "لا توجد مجموعات بيانات بعد",
+    "uploadFirst": "ارفع أول مجموعة بيانات للبدء"
+  }
+}

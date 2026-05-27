@@ -1,0 +1,301 @@
+﻿Employee ID, Full Name,Email Address,Age,  Department,Position / Title,Contract Type,Hire Date,Salary (Monthly),Office Location,Performance Rating,# Projects,Phone Number,Satisfaction (1-10),Is Active?
+EMP-0141,Khalid Al-Balushi,khalid.balushi@company.com,16,H.R.,JUNIOR,PT,08-19-2018,10713.58 USD,Riyadh,average,24,+96896374122,6,1
+EMP-0002,Hassan Al-Balushi,hassan.balushi@company.com,24,Human Resources,mid,fulltime,03-12-2020,10002.1,Bahrain,GOOD,5,968-9934-4066,6,No
+EMP-0162,Ali Al-Maskari,ali.maskari@company.com,51,MARKETING,senior,Contractor,17-03-2018,2970.35 OMR,Dubai,Below Average,19,968-9928-1590,1,no
+EMP-0004,Yousuf Al-Balushi,None,54,SALES,lead,contract,01-20-2023,14791.56,Riyadh,Good,18,+96898153566,9,YES
+EMP-0005,Salem Al-Zadjali,salem.zadjali@company.com,41,Information Technology,INTERN,Freelance,18/10/2015,9761.66 BHD,Dubai,Excellent,2,968-9814-3903,3,Inactive
+EMP-0006,Noura Al-Balushi,noura.balushi@company.com,28,Eng,Director,part-time,09-03-2021,13031.16,Bahrain,Excellent,17,+96893965789,8,Inactive
+EMP-0007,Hassan Al-Suleimani,hassan.suleimani@company.com,57,Legal,LEAD,Part-time,"Jan 02, 2020",1607.69,Bahrain,excellent,2,96774229,10,N
+EMP-0042,Nasser Al-Amri,nasser.amri@company.com,41,legal,Mid,Freelance,2019-03-12,12639.18,Remote,Average,17,+96892253031,2,YES
+EMP-0009,Omar Al-Hinai,not_an_email,43,MARKETING,sr.,Freelance,2017/09/02,1393.97,Riyadh,EXCELLENT,7,968-9939-3286,7,YES
+EMP-0010,  Aisha  Al-Farsi  ,aisha.farsi@company.com,37,finance,MID,fulltime,2022/06/10,1,Doha,AVERAGE,24,+968 9899 6207,1,no
+EMP-0011,Salem Al-Suleimani,salem.suleimani@company.com,46,product,Manager,Freelance,24 Dec 2025,10232.18,Riyadh,poor,3,968-9850-8103,7,true
+EMP-0012,Sara Al-Farsi,sara.farsi@company.com,None,human resources,DIRECTOR,Free Lance,11-03-2017,12421.61,Dubai,average,4,null,10,yes
+EMP-0013,Hassan Al-Hashmi,hassan.hashmi@company.com,49,hr,Intern,Part-time,"Sep 18, 2025",12373.09,Bahrain,BELOW AVERAGE,23,+968 9434 8512,5,Inactive
+EMP-0014,Mariam Al-Maskari,mariam.maskari@company.com,35,Sale,Vice President,Free Lance,2021-10-23,883.72,Riyadh,Avg,13,98191131,7,Inactive
+-,Hassan Al-Kindi,hassan.kindi@company.com,23,Sale,sr.,Part-time,2022/06/11,6786.22,Muscat HQ,Below Average,1,968-9376-1823,1,Yes
+EMP-0016,NA,hassan.kindi@company.com,51,FINANCE,SENIOR,full-time,19 May 2015,3616.28,Bahrain,Good,9,+96899494772,6,FALSE
+EMP-0017,Mohammed Al-Farsi,mohammed.farsi@company.com,49,MARKETING,intern,FREELANCE,15/05/2016,5576.83,Doha,average,11,968-9469-1890,5,Yes
+EMP-0018,Sara Al-Hashmi,sara.hashmi@company.com,None,human resources,LEAD,Contractor,12 Jun 2023,11042.24,Riyadh,excellent,23,968-9168-6548,5,N
+EMP-0019,  Khalid  Al-Hinai  ,khalid.hinai@company.com,53,Sales,Mgr,Free Lance,2019/08/04,10547.6,Dubai,GOOD,2,+96899362911,10,N
+EMP-0020,Mariam Al-Amri,mariam.amri@company.com,35,Human Resources,mid,part-time,"Aug 23, 2021",10838.77 AED,Remote,Below Average,8,97132648,4,YES
+EMP-0021,Aisha Al-Hinai,aisha.hinai@company.com,47,Fin,Intern,fulltime,08 Feb 2015,14993.93,Remote,Average,5,+968 9466 6692,10,FALSE
+EMP-0022,Layla Al-Farsi,layla.farsi@company.com,47,Support,Intern,CONTRACT,2021-09-27,3463.67,Riyadh,poor,24,968-9921-4376,5,Active
+EMP-0023,null,layla.farsi@company.com,99,sales,MID,FT,09-23-2019,7286.37,Dubai,below average,16,91171218,7,true
+EMP-0024,Mariam Al-Hinai,mariam.hinai@company.com,43,Customer Support,intern,PT,11 Jan 2021,14835.48,Remote,good,4,968-9168-3838,8,no
+EMP-0025,  Sara  Al-Kindi  ,sara.kindi@company.com,27,Ops,DIRECTOR,FULL-TIME,2019-04-24,13190.63,Doha,GOOD,0,,6,FALSE
+EMP-0026,Aisha Al-Kindi,aisha.kindi@company.com,36,LEGAL,Mgr,Contract,18/11/2019,5047.99,Doha,Avg,6,+968 9178 9344,10,false
+EMP-0027,  Hassan  Al-Hinai  ,hassan.hinai@company.com,53,finance,director,PART-TIME,27/11/2025,5186.85,Doha,EXCELLENT,2,968-9697-0985,3,false
+EMP-0028,Salem Al-Hashmi,salem.hashmi@company.com,36,Information Technology,MID,Full Time,12-22-2025,2338.51,Dubai,Below Average,17,91060605,8,0
+EMP-0029,Fatima Al-Hinai,fatima.hinai@company.com,56,it,VP,Free Lance,15-04-2020,10536.66,Bahrain,Average,6,+968 9153 8024,10,Yes
+EMP-0030,  Nasser  Al-Maskari  ,nasser.maskari@company.com,43,Marketing,manager,PART-TIME,2025-01-05,1024.09,Riyadh,excellent,16,+96897990081,6,no
+EMP-0031,Abdullah Al-Hinai,abdullah.hinai@company.com,53,Legal,Middle,Part-time,09-23-2024,7978.83,Doha,Excellent,20,97215376,4,FALSE
+EMP-0032,Noura Al-Rashdi,noura.rashdi@company.com,27,Sale,Middle,PART-TIME,2023-06-22,6805.7,Remote,EXCELLENT,11,92595941,4,no
+EMP-0033,Salem Al-Amri,salem.amri@company.com,57,eng.,Manager,Part Time,01/06/2020,2814.62,Remote,Excellent,6,+968 9571 9285,5,true
+EMP-0034,Fatima Al-Kindi,fatima.kindi@company.com,50,Information Technology,Lead,Contractor,17 Aug 2024,1577.9,Dubai,average,24,968-9201-3003,low,FALSE
+EMP-0035,Abdullah Al-Zadjali,abdullah.zadjali@company.com,N/A,Ops,vice president,Contract,2017/10/15,2303.26,Doha,poor,12,968-9371-7362,3,yes
+EMP-0036,Layla Al-Rashdi,layla.rashdi@company.com,60,Marketing,sr.,Free Lance,11-20-2025,1769.66,Doha,AVERAGE,11,968-9774-6753,1,false
+EMP-0037,Ali Al-Amri,ali.amri@company.com,58,Human Resources,INTERN,Part-time,"Dec 03, 2020",7016.17 BHD,Doha,POOR,11,968-9649-9771,6,No
+EMP-0038,Noura Al-Zadjali,noura.zadjali@company.com,43,sales,Dir,freelance,13 Sep 2019,12571.22,Remote,Poor,13,+96896083379,4,true
+EMP-0039,  Khalid  Al-Kindi  ,khalid.kindi@company.com,55,ENGINEERING,SENIOR,freelance,24-03-2024,14568.16,Bahrain,Avg,7,+968 9325 5051,10,Active
+EMP-0040,Abdullah Al-Farsi,abdullah.farsi@company.com,45,Support,Middle,full-time,03/07/2017,6691.54,Doha,poor,2,+96895346644,6,YES
+EMP-0041,Khalid   Al-Hashmi,khalid.hashmi@company.com,60,Customer Support,Middle,Part Time,2025-10-15,1033.38,Bahrain,Poor,9,968-9403-5998,3,yes
+EMP-0042,Reem Al-Zadjali,missing,45,Finance,Director,contract,12-25-2024,9927.7,Remote,BELOW AVERAGE,25,+968 9062 0485,1,Y
+EMP-0043,Hassan   Al-Zadjali,hassan.zadjali@company.com,43,Finance,DIRECTOR,Free Lance,23-08-2017,1973.08,Doha,Exc,5,968-9172-1307,5,0
+EMP-0044,Ibrahim Al-Rashdi,ibrahim.rashdi@company.com,25,Sale,director,full-time,2022-01-05,14282.43,Muscat HQ,Poor,11,+96899628809,6,TRUE
+EMP-0045,Mohammed Al-Kindi,mohammed.kindi@company.com,61,Fin,Lead,Part-time,26 Feb 2022,10875.47,Bahrain,poor,5,96064832,2,Y
+EMP-0046,Layla Al-Zadjali,layla.zadjali@company.com,47,LEGAL,vice president,full-time,"Aug 22, 2022",9885.07,Dubai,good,1,95102363,6,N
+EMP-0047,Ali Al-Hinai,ali.hinai@company.com,32,product,SENIOR,Contract,not a date,3793.48,Bahrain,Below Average,20,968-9810-2469,7,0
+EMP-0048,Sara Al-Hashmi,sara.hashmi@company.com,44,it,Director,contract,2018-03-04,4325.44,Dubai,AVERAGE,5,+968 9836 7799,8,Yes
+EMP-0049,Huda   Al-Maskari,huda.maskari@company.com,40,Support,MID,Part Time,2020-01-13,1844.15,Bahrain,Below average,19,+96892158613,7,false
+EMP-0050,Khalid Al-Maskari,,52,Customer Support,SENIOR,Part Time,2021/10/24,8359.23,Remote,poor,0,+96896988386,1,Inactive
+EMP-0051,Nasser Al-Amri,nasser.amri@company.com,46,marketing,JUNIOR,full-time,-,7925.84,Bahrain,Below Average,16,968-9802-5733,6,NO
+EMP-0052,Salem Al-Amri,salem.amri@company.com,40,human resources,DIRECTOR,CONTRACT,2023/07/13,1397.34,Remote,EXCELLENT,20,+968 9359 0102,9,1
+EMP-0053,Dalal Al-Amri,dalal.amri@company.com,43,Legal,Senior,parttime,21/08/2022,1640.11,Muscat HQ,Poor,23,+96892937099,3,No
+EMP-0054,  Mariam  Al-Suleimani  ,mariam.suleimani@company.com,56,Customer Support,SENIOR,FREELANCE,15 Dec 2017,12028.9,Bahrain,Good,20,+968 9864 4974,7,no
+EMP-0055,Huda Al-Suleimani,huda.suleimani@company.com,22,FINANCE,Lead,fulltime,12-25-2023,6019.12,Dubai,Good,14,968-9697-6731,8,Y
+EMP-0056,Ali Al-Zadjali,ali.zadjali@company.com,54,H.R.,senior,Contractor,"Aug 03, 2024",8088.12 USD,Doha,Poor,21,+96896642917,1,Y
+EMP-0177,Reem Al-Suleimani,not_an_email,48,Ops,intern,Freelance,2023/03/21,8309.56,Remote,Good,9,+968 9892 4365,4,N
+EMP-0058,Noura Al-Suleimani,noura.suleimani@company.com,16,Sales,jr.,full-time,2018/09/07,14907.46 QAR,Dubai,poor,24,968-9397-4590,3,N
+EMP-0059,Nasser Al-Kindi,nasser.kindi@company.com,55,Ops,vp,Contractor,2018/04/10,8785.88,Doha,POOR,7,968-9132-6581,6,yes
+EMP-0060,Hassan Al-Amri,hassan.amri@company.com,52,Human Resources,Manager,part-time,"Apr 23, 2022",5366.93,Riyadh,BELOW AVERAGE,11,968-9860-3633,8,no
+EMP-0061,Yousuf Al-Maskari,yousuf.maskari@company.com,59,Prod,manager,Part Time,18 Aug 2018,7738.42,Remote,BELOW AVERAGE,25,99169525,9,No
+EMP-0062,Fatima Al-Suleimani,fatima.suleimani@company.com,120,legal,JUNIOR,Free Lance,--,11055.14 QAR,Bahrain,Average,22,91795437,9,YES
+EMP-0063,Layla Al-Hinai,layla.hinai@company.com,41,Sales,MID,Free Lance,2015-12-06,8835.16,Muscat HQ,Poor,22,+968 9454 8220,2,1
+EMP-0064,-,null,47,SALES,SENIOR,PART-TIME,2023/06/13,1913.67,Remote,Average,7,968-9999-2655,6,Yes
+EMP-0065,Huda Al-Rashdi,huda.rashdi@company.com,40,HR,Middle,parttime,2021-06-12,11611.12,Muscat HQ,Good,14,+968 9173 2967,11,yes
+EMP-0066,Mohammed Al-Hinai,mohammed.hinai@company.com,55,Mktg,senior,CONTRACT,09-07-2017,14207.96,Remote,below average,4,+968 9557 3679,7,true
+EMP-0067,Dalal Al-Kindi,dalal.kindi@company.com,42,Fin,LEAD,FREELANCE,"Oct 07, 2016",1182.21,Remote,below average,9,+96896864256,3,0
+EMP-0068,Hassan Al-Balushi,hassan.balushi@company.com,48,Support,Director,full-time,"Oct 02, 2025",11488.1,Doha,Excellent,7,97478923,8,YES
+EMP-0054,Ali Al-Balushi,ali.balushi@company.com,44,Legal,INTERN,FREELANCE,not a date,-,Remote,excellent,23,99259518,9,FALSE
+EMP-0070,Aisha Al-Kindi,null,22,hr,Manager,FULL-TIME,09 Feb 2022,9276.99,Bahrain,Below Average,14,968-9990-1382,3,true
+EMP-0071,Khalid Al-Zadjali,khalid.zadjali@company.com,33,support,intern,part-time,01-06-2015,7977.22,Doha,BELOW AVERAGE,14,+96899485801,,N
+EMP-0072,Aisha Al-Hashmi,aisha.hashmi@company.com,56,Operations,INTERN,parttime,2018-05-28,7034.79,Muscat HQ,Good,18,+968 9278 4709,4,Y
+EMP-0073,Dalal Al-Zadjali,dalal.zadjali@company.com,28,Mktg,Jr,PT,2020/04/25,4615.78,Doha,BELOW AVERAGE,25,+96896758714,5,false
+EMP-0074,Ali Al-Hashmi,ali.hashmi@company.com,35,legal,Dir,contract,2020-11-25,1031.2,Dubai,BELOW AVERAGE,several,95064462,5,yes
+EMP-0075,Aisha Al-Suleimani,aisha.suleimani@company.com,22,human resources,mid,PART-TIME,2025-13-45,2676.89,Muscat HQ,good,25,968-9616-6661,3,TRUE
+EMP-0076,Khalid   Al-Balushi,khalid.balushi@company.com,31,I.T.,Lead,full-time,06-14-2021,4323.97,Bahrain,POOR,24,+96895060836,10,Y
+EMP-0077,Huda Al-Hashmi,bad-email,30,I.T.,director,Freelance,N/A,null,Muscat HQ,Exc,20,+968 9710 6413,2,YES
+EMP-0078,Omar Al-Kindi,omar.kindi@company.com,49,HR,Lead,Freelance,24 Nov 2019,10761.29,Dubai,Below average,25,968-9280-1173,5,no
+EMP-0220,Ali Al-Hinai,ali.hinai@company.com,58,MARKETING,Sr,FULL-TIME,2023/01/02,6238.31,Dubai,Good,22,+968 9376 6741,7,true
+EMP-0080,Abdullah Al-Suleimani,abdullah.suleimani@company.com,40,FINANCE,MID,Full Time,20/12/2019,11771.11,Dubai,Poor,13,--,1,true
+n/a,Mariam Al-Balushi,mariam.balushi@company.com,39,Sales,Team Lead,Contractor,05 Sep 2016,6976.76,Dubai,good,10,+968 9547 3593,5,N
+EMP-0082,Nasser Al-Balushi,nasser.balushi@company.com,35,legal,intern,Full-time,2024/01/07,14551.28,Doha,Poor,8,90521470,8,N
+EMP-0083,  Noura  Al-Suleimani  ,noura.suleimani@company.com,62,SALES,Mid,full-time,2017/02/28,1519.06,Bahrain,BELOW AVERAGE,12,95938182,3,1
+EMP-0084,null,noura.suleimani@company.com,27,Fin,sr.,PT,2025-09-26,8532.15,Doha,AVERAGE,5,null,,1
+EMP-0085,Nasser Al-Maskari,nasser.maskari@company.com,25,H.R.,Vice President,part-time,01 Oct 2020,8796.15,Dubai,Below average,1,93671004,15,Yes
+EMP-0086,Yousuf Al-Kindi,yousuf,29,SUPPORT,Middle,Freelance,2017/12/14,10842.0,Bahrain,poor,18,+968 9514 7639,5,YES
+EMP-0201,Nasser Al-Suleimani,nasser.suleimani@company.com,53,MARKETING,mid,CONTRACT,22 Dec 2016,1,Dubai,EXCELLENT,3,+96896474950,7,NO
+EMP-0088,Reem Al-Farsi,reem.farsi@company.com,26,ENGINEERING,Jr,Contract,2021-03-24,9235.23,Bahrain,Below Average,20,+968 9263 5764,6,Y
+EMP-0089,Reem Al-Hinai,reem.hinai@company.com,25,Operations,VP,Contractor,00/00/0000,2440.23,Doha,BELOW AVERAGE,8,+968 9310 1792,7,false
+EMP-0226,Huda Al-Hinai,huda.hinai@company.com,48,product,jr.,Free Lance,2019/02/13,12166.39,Remote,Poor,24,93554926,3,No
+EMP-0091,Khalid Al-Amri,not_an_email,39,Customer Support,JUNIOR,Freelance,2024-10-25,4862.52,Bahrain,Avg,20,+968 9062 8569,7,YES
+EMP-0092,Hassan   Al-Rashdi,hassan.rashdi@company.com,41,FINANCE,INTERN,full-time,09 Jun 2022,3801.75,Doha,Below average,16,+96895219779,7,YES
+EMP-0093,Aisha Al-Maskari,bad-email,39,Ops,VP,full-time,"Aug 19, 2017",11435.25,Remote,EXCELLENT,many,93713654,4,1
+EMP-0094,Mohammed Al-Hashmi,name@,39,I.T.,DIRECTOR,contract,2024-07-19,-,Bahrain,POOR,21,+96895641903,6,1
+EMP-0095,Mariam Al-Maskari,mariam.maskari@company.com,42,Marketing,intern,Contractor,2024/12/19,8391.82,Doha,AVERAGE,21,94928878,3,1
+EMP-0096,Yousuf Al-Balushi,yousuf.balushi@company.com,59,Fin,MID,FT,"Aug 07, 2016",6666.12,Dubai,Good,18,+968 9240 2902,3,yes
+EMP-0097,Fatima Al-Suleimani,fatima.suleimani@company.com,27,Mktg,vice president,Free Lance,00/00/0000,11547.24,Bahrain,Good,20,95777230,2,TRUE
+EMP-0098,Fatima Al-Hinai,fatima.hinai@company.com,30,Ops,director,parttime,null,9173.64,Dubai,EXCELLENT,25,None,10,No
+EMP-0056,Mohammed Al-Suleimani,mohammed.suleimani@company.com,62,ENGINEERING,VP,contract,2023-12-20,9447.83,Riyadh,Poor,13,+96899196242,4,Inactive
+EMP-0046,Nasser Al-Hashmi,nasser.hashmi@company.com,36,legal,Mgr,Full-time,26 Jun 2019,11566.5,Muscat HQ,excellent,5,+968 9450 1484,2,false
+EMP-0101,Ibrahim Al-Hinai,ibrahim.hinai@company.com,30,engineering,MID,Free Lance,2020/10/01,2655.31,Doha,Exc,2,968-9020-7369,9,N
+EMP-0102,Abdullah Al-Amri,abdullah.amri@company.com,57,Product,junior,Free Lance,06-08-2022,8617.04 USD,Doha,below average,14,+968 9147 6728,8,true
+EMP-0103,Noura Al-Farsi,N/A,62,finance,intern,Contract,"Sep 25, 2020",7225.96,Muscat HQ,Good,20,968-9918-8723,2,No
+EMP-0104,Sara Al-Balushi,sara.balushi@company.com,34,Operations,VP,fulltime,2023-03-16,12711.19 SAR,Doha,Poor,5,91737347,10,true
+EMP-0105,Huda Al-Hinai,huda.hinai@company.com,54,FINANCE,lead,PART-TIME,23 Mar 2025,9843.66,Remote,EXCELLENT,18,+968 9895 7402,7,Yes
+EMP-0075,Fatima Al-Maskari,fatima.maskari@company.com,40,H.R.,Jr,Freelance,24 Apr 2023,12143.27,Riyadh,Exc,25,968-9926-3113,5,Y
+EMP-0107,Huda Al-Rashdi,huda.rashdi@company.com,33,sales,SENIOR,fulltime,"Mar 06, 2019",10877.59 SAR,Dubai,excellent,19,968-9823-0079,9,false
+EMP-0108,  Aisha  Al-Zadjali  ,aisha.zadjali@company.com,36,Human Resources,Dir,contract,2022/09/27,5713.3 BHD,Dubai,POOR,1,968-9639-8370,2,TRUE
+EMP-0109,--,aisha.zadjali@company.com,24,finance,Director,full-time,2023-01-21,10532.75,Muscat HQ,GOOD,23,+96892579573,low,true
+EMP-0110,  Salem  Al-Zadjali  ,salem.zadjali@company.com,47,Information Technology,jr.,FULL-TIME,N/A,1830.77,Bahrain,EXCELLENT,9,968-9734-2987,1,Inactive
+EMP-0111,Reem Al-Hinai,reem.hinai@company.com,45,eng.,Senior,Full-time,10/02/2023,6659.69,Remote,Poor,7,968-9326-0252,10,No
+EMP-0112,  Ibrahim  Al-Zadjali  ,ibrahim.zadjali@company.com,43,operations,Lead,Contract,20 Jun 2022,5975.81,Riyadh,below average,few,+968 9464 1917,3,true
+EMP-0113,Mariam Al-Hashmi,mariam.hashmi@company.com,56,Human Resources,Mid,FULL-TIME,"Jul 25, 2024",8517.26 AED,Bahrain,below average,7,968-9224-6154,9,yes
+EMP-0114,Dalal Al-Kindi,dalal.kindi@company.com,31,legal,junior,freelance,"Nov 07, 2015",7255.94,Muscat HQ,EXCELLENT,16,968-9441-7710,10,NO
+EMP-0115,Ali Al-Zadjali,ali.zadjali@company.com,52,Product,sr.,part-time,06/03/2018,4070.92,Riyadh,Exc,15,96893744,0,YES
+EMP-0116,Fatima Al-Amri,fatima.amri@company.com,62,ENGINEERING,mid,Free Lance,2021/10/05,8053.43,Dubai,Avg,2,+968 9221 8169,4,FALSE
+EMP-0117,  Dalal  Al-Amri  ,dalal.amri@company.com,30,Product,vice president,Contract,"Jul 12, 2022",8980.92,Doha,good,7,+96894752426,9,FALSE
+EMP-0004,  Noura  Al-Zadjali  ,noura.zadjali@company.com,31,Information Technology,MANAGER,FREELANCE,"Apr 14, 2021",8679.74,Riyadh,AVERAGE,12,+96893854922,3,no
+EMP-0119,Reem Al-Amri,reem.amri@company.com,15,Mktg,VP,Full Time,13-12-2015,9284.11,Dubai,BELOW AVERAGE,,+96898565571,4,NO
+EMP-0120,Aisha Al-Balushi,aisha.balushi@company.com,26,SALES,Dir,contract,10-01-2021,7945.0,Riyadh,EXCELLENT,25,+968 9632 6357,4,true
+EMP-0121,Nasser Al-Suleimani,nasser.suleimani@company.com,42,Information Technology,Jr,Part Time,18/02/2020,4620.88,Remote,good,7,968-9346-9169,4,false
+EMP-0122,  Mona  Al-Amri  ,mona.amri@company.com,42,LEGAL,Mgr,PART-TIME,"Mar 02, 2024",7935.15,Doha,good,22,968-9014-1240,-1,TRUE
+EMP-0123,Salem Al-Kindi,salem.kindi@company.com,35,Information Technology,DIRECTOR,Contractor,2024/11/08,6937.51,Doha,Good,23,+96892962978,3,true
+EMP-0124,Nasser Al-Suleimani,nasser.suleimani@company.com,50,OPERATIONS,Dir,CONTRACT,N/A,8991.32,Remote,Poor,9,+968 9749 8243,7,0
+EMP-0125,Yousuf Al-Farsi,@company.com,40,Fin,Mgr,Contractor,24/03/2015,1936.92,Dubai,Below Average,15,+96896660764,2,no
+EMP-0126,Hassan Al-Hinai,hassan.hinai@company.com,24,OPERATIONS,intern,Contractor,"Mar 19, 2023",6976.68,Remote,poor,15,+96897413185,7,1
+EMP-0268,Khalid Al-Rashdi,khalid.rashdi@company.com,49,finance,JUNIOR,contract,06 Apr 2021,4534.32,Doha,GOOD,19,968-9477-6085,9,1
+EMP-0128,Mariam Al-Balushi,mariam.balushi@company.com,,Support,Senior,CONTRACT,03/04/2015,null,Riyadh,Below average,15,+968 9053 2460,3,No
+EMP-0129,Aisha Al-Maskari,@company.com,37,engineering,INTERN,FULL-TIME,11-10-2021,8604.04,Muscat HQ,Avg,6,+96893653880,4,FALSE
+EMP-0130,Noura   Al-Farsi,missing,27,hr,Intern,Contract,05-02-2023,11545.1,Doha,Good,11,968-9066-2507,8,0
+EMP-0131,Reem Al-Rashdi,reem.rashdi@company.com,55,Mktg,MGR,Contractor,--,0,Bahrain,good,21,+968 9318 5480,8,YES
+EMP-0132,Noura Al-Balushi,noura.balushi@company.com,53,HR,JUNIOR,Free Lance,12/01/2019,3764.08,Doha,Exc,1,+968 9619 1944,1,1
+EMP-0133,Ali Al-Maskari,ali.maskari@company.com,37,product,VP,Contractor,26/03/2016,8381.39,Bahrain,Below average,17,968-9623-6418,7,true
+EMP-0134,Reem Al-Hinai,bad-email,55,MARKETING,Jr,part-time,2025-13-45,8916.89,Muscat HQ,Exc,4,93908993,5,yes
+EMP-0135,Ali Al-Rashdi,ali.rashdi@company.com,60,Finance,VP,Full Time,2021/02/28,962.37,Remote,Below Average,1,95483324,4,YES
+EMP-0136,Ibrahim Al-Amri,ibrahim.amri@company.com,52,Product,Vice President,fulltime,"Mar 16, 2017",8768.58,Remote,Poor,8,968-9966-3982,7,FALSE
+EMP-0137,Mohammed Al-Hinai,mohammed.hinai@company.com,36,Human Resources,Senior,FT,05-01-2017,1123.02,Dubai,Poor,16,+968 9237 1416,1,TRUE
+EMP-0138,Aisha Al-Suleimani,bad-email,45,Sales,Mgr,parttime,"Aug 28, 2020",7303.4,Remote,Excellent,16,+968 9660 0153,1,false
+EMP-0139,Abdullah Al-Hinai,abdullah.hinai@company.com,--,finance,Sr,freelance,28 Oct 2025,6855.8,Riyadh,poor,4,99748077,4,YES
+EMP-0140,Khalid Al-Farsi,khalid.farsi@company.com,57,Support,Sr,PT,-,7090.66,Remote,average,3,+96894477211,10,N
+EMP-0141,N/A,khalid.farsi@company.com,45,Mktg,intern,part-time,not a date,10333.02,Dubai,Good,14,+968 9545 0844,4,FALSE
+EMP-0195,Hassan Al-Amri,hassan.amri@company.com,28,legal,junior,Freelance,01-07-2025,4859.99,Dubai,Below average,1,97777564,8,yes
+EMP-0143,Reem Al-Kindi,missing,34,Legal,MGR,PT,2022-11-12,8065.66,Dubai,BELOW AVERAGE,5,92719990,3,No
+EMP-0144,Ibrahim Al-Hinai,ibrahim.hinai@company.com,51,legal,JUNIOR,freelance,2022-07-15,4749.2 QAR,Remote,Poor,4,968-9061-6077,1,0
+EMP-0145,Aisha Al-Kindi,aisha.kindi@company.com,51,PRODUCT,Junior,CONTRACT,"Jul 27, 2016",13003.59,Riyadh,poor,22,+96891833787,9,yes
+EMP-0146,Mariam Al-Farsi,mariam.farsi@company.com,58,LEGAL,intern,PART-TIME,2018-01-04,3744.1,Bahrain,BELOW AVERAGE,11,90189536,5,1
+EMP-0147,Yousuf Al-Suleimani,yousuf.suleimani@company.com,34,OPERATIONS,intern,FT,11-09-2022,12658.5,Riyadh,POOR,17,99687124,6,yes
+EMP-0148,n/a,yousuf.suleimani@company.com,60,SALES,Director,Contractor,08-27-2020,11946.2,Dubai,Exc,25,93191222,8,0
+EMP-0149,Abdullah   Al-Kindi,abdullah.kindi@company.com,24,Product,DIRECTOR,Full-time,2019/01/19,3534.15,Riyadh,poor,21,92642344,1,no
+EMP-0150,Khalid Al-Hinai,khalid.hinai@company.com,23,LEGAL,Junior,Freelance,2024/10/21,5519.12,Dubai,Poor,24,91558874,8,no
+EMP-0151,Ibrahim Al-Hashmi,ibrahim.hashmi@company.com,43,Ops,Intern,fulltime,05-25-2017,12409.25,Muscat HQ,Average,17,+968 9400 2629,9,NO
+EMP-0152,Nasser Al-Farsi,nasser.farsi@company.com,26,Prod,MID,Contract,2021-02-20,5449.2,Remote,Excellent,4,+96892461642,8,0
+EMP-0153,Yousuf Al-Hinai,yousuf.hinai@company.com,44,Sales,vp,Contract,"Jan 23, 2015",13092.65,Dubai,BELOW AVERAGE,22,+968 9730 1277,3,Inactive
+EMP-0154,Layla Al-Farsi,layla.farsi@company.com,missing,it,mid,Free Lance,06-10-2021,5845.36,Dubai,Below Average,23,968-9689-2714,10,false
+EMP-0248,Noura Al-Amri,noura.amri@company.com,39,LEGAL,Mid,parttime,22 Feb 2025,13630.91,Bahrain,Exc,15,968-9706-3478,5,0
+EMP-0156,Mariam Al-Amri,mariam.amri@company.com,61,ENGINEERING,Intern,PART-TIME,03-20-2019,9374.27,Bahrain,GOOD,25,98135582,9,No
+EMP-0157,Khalid Al-Hashmi,khalid.hashmi@company.com,58,Operations,Manager,full-time,"Dec 25, 2022",4529.28,Bahrain,Below Average,25,968-9889-6176,1,no
+EMP-0158,Sara Al-Amri,sara.amri@company.com,47,LEGAL,lead,contract,not a date,8258.75 OMR,Remote,Below average,9,+96890397627,1,Y
+EMP-0159,Noura Al-Balushi,noura.balushi@company.com,29,MARKETING,Mgr,FT,2021/12/22,4737.48,Muscat HQ,BELOW AVERAGE,1,968-9298-5161,8,Y
+EMP-0160,Khalid Al-Zadjali,khalid.zadjali@company.com,26,SALES,Intern,freelance,not a date,13645.57,Bahrain,Exc,12,+96899061856,7,Inactive
+EMP-0161,Yousuf Al-Hinai,yousuf.hinai@company.com,27,legal,lead,fulltime,21 Feb 2021,11241.6,Dubai,excellent,,+968 9105 6840,5,Inactive
+EMP-0162,Mohammed Al-Suleimani,mohammed.suleimani@company.com,55,LEGAL,SENIOR,Part-time,NA,1450.38 QAR,Remote,Good,1,+96897653507,10,yes
+EMP-0163,  Dalal  Al-Maskari  ,dalal.maskari@company.com,47,Operations,Sr,Part-time,2016/05/05,7028.99,Bahrain,excellent,20,90262233,2,Yes
+N/A,Nasser Al-Hinai,nasser.hinai@company.com,55,legal,lead,FULL-TIME,2016/11/27,3525.02,Bahrain,EXCELLENT,17,+968 9349 1484,4,no
+EMP-0165,Mona Al-Hashmi,-,43,Prod,Junior,FULL-TIME,2022-09-04,5428.81,Dubai,average,10,96922203,7,N
+EMP-0166,Sara Al-Kindi,sara.kindi@company.com,44,finance,director,FT,15-08-2016,9371.63,Remote,Poor,17,+96896907115,8,Y
+EMP-0167,Sara Al-Maskari,sara.maskari@company.com,22,IT,jr.,fulltime,16/08/2016,6573.98,Dubai,good,20,+96898049422,3,Active
+EMP-0168,missing,sara.maskari@company.com,45,LEGAL,Junior,FREELANCE,"Dec 20, 2019",9610.46,Riyadh,EXCELLENT,3,+968 9068 5757,3,yes
+EMP-0169,Yousuf Al-Maskari,yousuf.maskari@company.com,36,OPERATIONS,MANAGER,FREELANCE,"Aug 17, 2022",12520.38,Riyadh,Below average,22,+96893160048,8,yes
+EMP-0170,Ali Al-Balushi,ali.balushi@company.com,23,Fin,sr.,Contractor,2019-04-03,9954.34,Doha,poor,25,+968 9768 4083,3,0
+EMP-0171,Mariam Al-Suleimani,mariam.suleimani@company.com,33,marketing,senior,Full-time,12/05/2022,14687.92,Dubai,Avg,5,+96890418175,8,YES
+EMP-0172,Reem Al-Zadjali,reem.zadjali@company.com,58,Mktg,Director,Freelance,"Jan 13, 2019",1581.48,Remote,GOOD,25,968-9328-3564,high,Active
+EMP-0173,Hassan Al-Maskari,name@,49,Ops,Director,CONTRACT,07 Feb 2023,7083.56,Dubai,BELOW AVERAGE,18,93486033,9,true
+EMP-0174,Ali Al-Suleimani,ali.suleimani@company.com,30,hr,Vice President,Freelance,"May 16, 2024",2987.14,Riyadh,Below Average,9,+968 9410 6228,,1
+EMP-0175,Layla Al-Amri,layla.amri@company.com,45,Support,manager,full-time,2017-06-06,5854.98,Riyadh,Average,24,+96892804075,6,0
+EMP-0176,Reem Al-Amri,reem.amri@company.com,32,sales,SENIOR,part-time,"Sep 23, 2023",13807.64,Muscat HQ,Good,9,97414487,10,true
+EMP-0177,Noura Al-Maskari,noura.maskari@company.com,49,Sales,jr.,Freelance,pending,1414.6,Riyadh,Excellent,19,93100124,1,yes
+EMP-0178,Nasser Al-Rashdi,nasser.rashdi@company.com,59,eng.,lead,contract,2016/04/17,7043.25,Muscat HQ,good,13,96838023,6,no
+EMP-0179,Layla   Al-Hinai,layla.hinai@company.com,41,Legal,Vice President,freelance,12/11/2022,missing,Remote,Exc,21,+96892405308,10,no
+EMP-0180,Layla Al-Maskari,layla.maskari@company.com,39,PRODUCT,Vice President,Free Lance,2017-08-04,2711.44,Muscat HQ,Excellent,0,+968 9548 5409,10,no
+EMP-0181,Mona Al-Hashmi,mona.hashmi@company.com,56,Engineering,VP,Free Lance,02/01/2022,10826.04,Doha,below average,12,+96899543806,9,Inactive
+EMP-0182,Hassan Al-Hinai,hassan.hinai@company.com,23,Product,Sr,Contract,02-14-2021,4268.05,Dubai,Average,2,+96895663891,9,true
+EMP-0183,Abdullah Al-Farsi,abdullah.farsi@company.com,58,Sale,mid,Contractor,03-20-2020,12832.14,Muscat HQ,Poor,1,+968 9378 9737,2,no
+EMP-0184,Abdullah Al-Hashmi,abdullah.hashmi@company.com,56,operations,vice president,Contractor,"Nov 23, 2015",14462.06,Remote,Below average,17,+968 9949 7857,1,Y
+EMP-0185,Mariam Al-Farsi,mariam.farsi@company.com,40,MARKETING,Team Lead,Part-time,2025-13-45,9986.29,Muscat HQ,Good,0,968-9923-9315,1,Inactive
+EMP-0186,Yousuf Al-Amri,yousuf.amri@company.com,47,marketing,Mid,Contractor,2016/06/11,4150.32,Doha,Good,6,+968 9685 1404,10,No
+EMP-0187,Yousuf Al-Zadjali,yousuf.zadjali@company.com,45,Finance,Junior,Part Time,"Nov 04, 2020",13719.01,Doha,AVERAGE,24,92688166,6,FALSE
+EMP-0188,Mona Al-Hashmi,mona.hashmi@company.com,32,Finance,DIRECTOR,Contractor,06 Nov 2025,1,Remote,AVERAGE,3,99965936,6,Active
+EMP-0189,Nasser Al-Rashdi,nasser.rashdi@company.com,58,HR,JUNIOR,Part-time,"Jan 13, 2017",6024.47,Bahrain,Excellent,13,+968 9829 0445,4,Y
+EMP-0190,Mona Al-Farsi,mona.farsi@company.com,48,Mktg,Senior,CONTRACT,19 Jun 2018,13174.5,Remote,below average,22,968-9122-5669,1,No
+EMP-0191,Dalal Al-Amri,--,47,operations,JUNIOR,Part Time,2020-08-05,2459.16,Muscat HQ,good,8,+968 9474 6702,5,1
+EMP-0192,Mona Al-Kindi,mona.kindi@company.com,33,Eng,manager,Free Lance,01-15-2022,2397.37,Remote,Good,6,92823521,5,Y
+EMP-0193,Nasser Al-Kindi,nasser.kindi@company.com,N/A,Information Technology,Middle,Part-time,15 Aug 2025,500000,Remote,poor,23,93546147,5,true
+EMP-0194,Dalal Al-Farsi,dalal.farsi@company.com,null,Mktg,Vice President,Part-time,20/11/2019,3638.17,Doha,BELOW AVERAGE,19,+968 9617 7975,7,FALSE
+EMP-0195,Huda Al-Kindi,huda.kindi@company.com,52,finance,Sr,PART-TIME,"Feb 02, 2023",10184.14,Bahrain,AVERAGE,2,+96891911520,8,NO
+EMP-0196,Sara Al-Hinai,sara.hinai@company.com,33,hr,Middle,fulltime,not a date,missing,Doha,BELOW AVERAGE,19,+968 9507 7736,3,Yes
+EMP-0197,Omar Al-Suleimani,omar.suleimani@company.com,34,SALES,Intern,Free Lance,NA,7687.67,Muscat HQ,below average,18,+968 9085 4332,2,FALSE
+EMP-0198,Dalal   Al-Zadjali,dalal.zadjali@company.com,53,HR,jr.,Contract,"Feb 16, 2022",1095.46,Riyadh,good,7,968-9785-9576,5,TRUE
+EMP-0199,Layla Al-Hashmi,layla.hashmi@company.com,30,marketing,SENIOR,Freelance,08/05/2022,4503.47,Remote,Good,16,N/A,2,N
+EMP-0200,Yousuf Al-Rashdi,yousuf.rashdi@company.com,60,Sales,intern,Full-time,"Sep 02, 2016",13736.0,Dubai,Avg,15,+96892588652,6,YES
+EMP-0201,Mohammed Al-Maskari,mohammed.maskari@company.com,48,operations,SENIOR,freelance,"Aug 28, 2021",1,Muscat HQ,Poor,10,97282524,1,YES
+EMP-0202,Abdullah Al-Hinai,abdullah.hinai@company.com,44,ENGINEERING,sr.,freelance,15 Nov 2024,11810.68,Riyadh,Excellent,12,98732032,5,Y
+EMP-0203,  Aisha  Al-Suleimani  ,aisha.suleimani@company.com,49,Support,Jr,CONTRACT,"Aug 10, 2016",12236.5,Bahrain,POOR,20,95877681,10,YES
+EMP-0204,Yousuf Al-Zadjali,yousuf.zadjali@company.com,27,Sales,vp,freelance,"Jul 19, 2023",7883.35,Doha,BELOW AVERAGE,13,98485679,8,YES
+EMP-0205,Omar Al-Hashmi,omar.hashmi@company.com,48,Sales,Dir,FULL-TIME,10-05-2020,NA,Dubai,poor,9,93071524,8,Yes
+EMP-0206,Sara Al-Hashmi,sara.hashmi@company.com,60,marketing,intern,freelance,20-11-2024,1450.64,Remote,Below average,5,968-9941-2762,9,yes
+EMP-0207,Fatima Al-Amri,fatima,null,H.R.,Intern,Contractor,14/06/2015,4451.92,Muscat HQ,excellent,5,+96892587505,7,NO
+EMP-0208,Fatima Al-Hinai,fatima.hinai@company.com,29,engineering,lead,Free Lance,18-08-2020,4119.11 BHD,Muscat HQ,Average,17,95110555,8,yes
+EMP-0209,Khalid Al-Rashdi,khalid.rashdi@company.com,24,Eng,manager,Full-time,27 May 2024,9109.26,Bahrain,Average,17,968-9150-5169,2,YES
+EMP-0210,Omar Al-Amri,omar.amri@company.com,50,finance,Dir,parttime,"Nov 01, 2017",6666.92,Remote,BELOW AVERAGE,25,+96899037036,,Active
+EMP-0211,Dalal Al-Rashdi,dalal.rashdi@company.com,34,Legal,Lead,CONTRACT,26 May 2025,1322.5,Doha,Poor,several,968-9954-7951,3,Y
+EMP-0212,  Nasser  Al-Kindi  ,name@,55,finance,JUNIOR,Contractor,n/a,14130.38,Doha,Below average,16,968-9867-8130,4,No
+EMP-0213,Mohammed Al-Farsi,@company.com,26,hr,Sr,Contract,2022-07-26,4355.81,Muscat HQ,below average,1,91223240,10,Active
+EMP-0214,Ali Al-Suleimani,ali.suleimani@company.com,50,ENGINEERING,VP,FT,"Jul 04, 2021",10168.08,Muscat HQ,BELOW AVERAGE,13,+96895697818,1,Active
+EMP-0215,Mohammed Al-Amri,mohammed.amri@company.com,44,I.T.,Intern,part-time,"Oct 14, 2019",13370.15,Dubai,good,10,+96898685239,3,No
+EMP-0216,Fatima Al-Farsi,fatima.farsi@company.com,52,LEGAL,Dir,Contractor,2015-08-08,3826.57,Doha,Avg,5,+96896087061,11,Yes
+EMP-0217,  Nasser  Al-Rashdi  ,null,38,MARKETING,lead,Part-time,27 Jan 2016,5605.04,Dubai,Avg,25,98840363,10,FALSE
+EMP-0218,Khalid Al-Maskari,khalid.maskari@company.com,24,product,manager,contract,19-09-2017,10221.73,Muscat HQ,GOOD,20,968-9836-4914,3,true
+EMP-0219,Mona Al-Hashmi,mona.hashmi@company.com,34,Legal,vp,Contractor,2020-05-18,5792.36,Bahrain,Exc,10,+968 9725 6240,8,true
+EMP-0227,Ali Al-Rashdi,ali.rashdi@company.com,36,Sales,Middle,FULL-TIME,10 May 2020,10820.13,Dubai,poor,N/A,968-9677-4826,10,Yes
+EMP-0221,Khalid Al-Farsi,khalid.farsi@company.com,51,legal,Middle,parttime,2018/08/15,2622.51,Remote,Exc,11,+968 9714 2385,7,0
+EMP-0017,Khalid Al-Rashdi,khalid.rashdi@company.com,47,Sale,Team Lead,Full Time,2019-02-06,9367.77,Muscat HQ,Good,12,94883940,2,Active
+EMP-0223,Sara Al-Farsi,sara.farsi@company.com,35,marketing,Mgr,freelance,17 Apr 2024,1,Doha,Exc,7,+968 9772 0951,1,yes
+EMP-0224,Mariam Al-Farsi,mariam.farsi@company.com,51,it,MID,full-time,10 Sep 2025,3885.02,Doha,Below Average,2,968-9688-0270,5,Y
+EMP-0225,Ibrahim Al-Farsi,name@,42,legal,Intern,FULL-TIME,2022/03/16,9419.24,Dubai,Average,12,+96894584412,6,NO
+EMP-0273,Fatima Al-Zadjali,fatima.zadjali@company.com,22,Eng,lead,contract,not a date,10299.08,Dubai,excellent,1,+96895488523,4,Y
+EMP-0227,Huda Al-Maskari,-,16,Legal,Middle,Contract,2019-10-16,8882.71,Riyadh,EXCELLENT,22,95570816,6,Inactive
+EMP-0230,Huda Al-Zadjali,huda.zadjali@company.com,49,H.R.,Mid,Part Time,2021-04-21,7100.91,Riyadh,good,25,+968 9483 9473,4,true
+EMP-0229,Huda Al-Maskari,huda.maskari@company.com,0,Legal,Lead,part-time,"Apr 08, 2023",11047.77,Dubai,below average,9,+968 9337 8948,8,yes
+EMP-0230,Mona Al-Hashmi,mona.hashmi@company.com,46,IT,MANAGER,PART-TIME,05-15-2022,2740.52,Doha,Good,0,--,6,Inactive
+EMP-0231,Layla Al-Farsi,layla.farsi@company.com,46,product,Team Lead,CONTRACT,02 Dec 2020,7583.7,Riyadh,excellent,14,94266245,10,NO
+N/A,Hassan Al-Farsi,hassan.farsi@company.com,49,FINANCE,Vice President,Freelance,09 Mar 2020,891.17,Dubai,Below Average,24,+968 9483 7546,3,NO
+EMP-0233,Aisha Al-Zadjali,aisha.zadjali@company.com,34,Fin,INTERN,FT,2021-02-09,10353.83,Muscat HQ,Excellent,0,+96891624736,1,TRUE
+EMP-0234,Mona Al-Hashmi,mona.hashmi@company.com,37,Ops,VP,CONTRACT,TBD,9347.11,Bahrain,average,19,+968 9863 8823,4,Yes
+EMP-0235,Mohammed Al-Rashdi,mohammed.rashdi@company.com,61,SALES,vice president,FT,2017/09/19,12114.85,Riyadh,poor,14,+968 9907 0902,4,NO
+EMP-0236,Sara Al-Suleimani,sara.suleimani@company.com,52,sales,Intern,contract,02-21-2024,6219.44,Remote,poor,7,968-9147-1032,6,Y
+EMP-0237,Yousuf   Al-Farsi,yousuf.farsi@company.com,42,operations,Lead,Freelance,27/05/2017,2871.36,Remote,EXCELLENT,22,+968 9361 8930,7,No
+EMP-0238,Omar Al-Maskari,omar.maskari@company.com,32,eng.,Vice President,Free Lance,17 Feb 2021,12958.78,Doha,excellent,25,+96895101515,3,YES
+EMP-0239,Omar Al-Maskari,omar.maskari@company.com,31,I.T.,Senior,Full Time,17 Feb 2015,11060.22,Dubai,Excellent,15,96297691,2,Active
+EMP-0240,  Ibrahim  Al-Rashdi  ,ibrahim.rashdi@company.com,36,eng.,intern,FULL-TIME,12-14-2025,13706.1,Bahrain,good,0,+968 9107 2595,10,no
+EMP-0241,Noura Al-Kindi,missing,30,product,Senior,Contract,18/06/2019,0,Muscat HQ,poor,14,+968 9525 0195,6,Y
+EMP-0242,Fatima Al-Maskari,fatima.maskari@company.com,39,Mktg,Middle,Contractor,09 Feb 2022,1801.92,Remote,average,18,97041170,6,FALSE
+EMP-0243,Salem Al-Balushi,salem.balushi@company.com,39,marketing,Manager,fulltime,"Feb 06, 2016",7752.58,Bahrain,AVERAGE,19,+96892864666,7,NO
+EMP-0244,Reem Al-Zadjali,reem.zadjali@company.com,120,marketing,sr.,Contract,25/12/2020,7033.23,Riyadh,Below average,13,95120195,2,0
+EMP-0245,Ali Al-Balushi,name@,22,it,intern,fulltime,null,10776.8,Remote,average,21,+96897527132,9,N
+EMP-0246,Layla Al-Suleimani,layla.suleimani@company.com,56,SALES,Mgr,CONTRACT,07-07-2024,13486.53,Doha,poor,0,968-9500-5493,1,false
+EMP-0247,Noura Al-Farsi,noura.farsi@company.com,31,finance,intern,CONTRACT,04-05-2023,11408.69,Muscat HQ,average,9,n/a,6,No
+EMP-0248,Salem Al-Balushi,salem.balushi@company.com,47,Customer Support,Senior,Full-time,2015-11-08,11271.53,Doha,Below average,2,92558453,3,N
+EMP-0249,Huda Al-Farsi,huda.farsi@company.com,59,marketing,mid,Freelance,"Jul 01, 2017",8254.59,Remote,Good,15,+968 9086 6635,5,false
+EMP-0250,Yousuf   Al-Suleimani,yousuf.suleimani@company.com,60,Sale,Sr,FREELANCE,"Jan 22, 2025",12302.5,Remote,POOR,7,99803383,2,YES
+EMP-0251,Omar Al-Maskari,omar.maskari@company.com,34,support,junior,parttime,12-06-2023,7656.05,Bahrain,Poor,8,94859627,10,No
+EMP-0252,Hassan Al-Hashmi,hassan.hashmi@company.com,46,Information Technology,lead,full-time,"Sep 15, 2015",3928.78,Remote,Average,1,968-9065-5832,5,YES
+EMP-0253,Huda   Al-Maskari,huda.maskari@company.com,57,finance,Vice President,Contract,2025-13-45,14596.79,Bahrain,Poor,22,968-9924-2195,8,N
+EMP-0254,Hassan Al-Kindi,hassan.kindi@company.com,51,marketing,Team Lead,PT,"Jul 22, 2017",7261.34,Remote,Below Average,4,+96891673190,1,no
+EMP-0255,Fatima Al-Kindi,fatima.kindi@company.com,15,SALES,mid,parttime,11-05-2017,4597.88 BHD,Bahrain,Excellent,3,+96898582257,7,YES
+null,n/a,fatima.kindi@company.com,46,Sale,Senior,Part-time,2016-10-11,1415.53,Dubai,good,19,+968 9252 0273,5,0
+EMP-0257,Layla Al-Hinai,@company.com,31,I.T.,Intern,FULL-TIME,11/02/2017,6818.42,Remote,Below average,20,+968 9702 3943,9,Inactive
+EMP-0258,Nasser Al-Farsi,nasser.farsi@company.com,35,ENGINEERING,Intern,Full-time,15/05/2017,6779.29,Dubai,Good,3,96332741,7,false
+EMP-0259,Mona   Al-Amri,bad-email,0,it,sr.,PT,07-24-2022,500000,Dubai,Excellent,5,+96896650332,8,1
+EMP-0260,Sara Al-Kindi,sara.kindi@company.com,25,human resources,SENIOR,FT,27-07-2025,3565.17,Muscat HQ,Excellent,24,+96894018645,9,no
+EMP-0261,Mariam Al-Maskari,None,24,Prod,Junior,Contract,2025-13-45,5265.51,Doha,average,3,+96898425133,3,Yes
+EMP-0262,Fatima Al-Hinai,fatima.hinai@company.com,35,marketing,DIRECTOR,Part Time,2021/01/23,9417.65,Dubai,POOR,3,95193258,2,Inactive
+EMP-0263,Aisha Al-Balushi,aisha.balushi@company.com,52,Fin,Senior,Freelance,22/10/2021,5253.76,Muscat HQ,BELOW AVERAGE,21,,4,Yes
+EMP-0264,Nasser Al-Farsi,nasser.farsi@company.com,56,Legal,mid,fulltime,02-11-2020,7562.32,Riyadh,Below Average,15,95371840,10,TRUE
+EMP-0265,  Mona  Al-Maskari  ,mona.maskari@company.com,62,Marketing,Senior,Contractor,17/07/2022,2112.67,Doha,AVERAGE,11,+968 9797 7556,3,FALSE
+EMP-0266,Mohammed Al-Zadjali,mohammed.zadjali@company.com,42,engineering,Intern,FREELANCE,17 May 2021,missing,Dubai,Below Average,few,96334348,4,Y
+EMP-0267,-,None,53,legal,Vice President,Contractor,15-03-2016,6989.44,Riyadh,Below average,3,+96891503875,10,FALSE
+EMP-0268,Reem Al-Balushi,reem.balushi@company.com,51,Customer Support,mid,Freelance,27 Jul 2022,0,Dubai,poor,21,+968 9405 2611,15,No
+NA,Abdullah Al-Amri,abdullah.amri@company.com,61,IT,vp,freelance,2017-07-08,8992.46,Doha,average,6,+96897338707,,YES
+--,Ali Al-Amri,ali.amri@company.com,37,Human Resources,lead,FREELANCE,01 Nov 2017,13966.23,Muscat HQ,excellent,5,+968 9606 3240,4,TRUE
+EMP-0271,Mona Al-Balushi,mona.balushi@company.com,41,engineering,Junior,CONTRACT,"Jan 06, 2023",1219.68,Muscat HQ,POOR,6,+96893639947,-1,N
+EMP-0272,Salem Al-Hashmi,salem.hashmi@company.com,49,Customer Support,LEAD,part-time,"Jul 04, 2019",3722.81,Remote,BELOW AVERAGE,13,968-9534-7715,10,TRUE
+EMP-0273,Ali   Al-Hashmi,ali.hashmi@company.com,55,Ops,Junior,Part Time,07 Feb 2018,936.79,Remote,EXCELLENT,18,99422765,5,Y
+EMP-0274,Dalal Al-Balushi,dalal.balushi@company.com,25,legal,Jr,Freelance,13/10/2020,12956.66,Muscat HQ,Below average,12,--,1,true
+EMP-0275,Sara Al-Hinai,sara.hinai@company.com,47,Fin,INTERN,Full Time,2018-01-27,11084.4,Dubai,Good,25,+96890880652,1,no
+EMP-0276,Dalal Al-Farsi,dalal.farsi@company.com,59,I.T.,mid,Free Lance,04-03-2022,12664.7,Dubai,GOOD,15,+96893626151,7,Y
+EMP-0277,Abdullah Al-Zadjali,abdullah.zadjali@company.com,30,Human Resources,vice president,parttime,2017/11/10,2321.86,Muscat HQ,Good,5,+968 9890 6779,5,no
+EMP-0278,Khalid Al-Farsi,khalid.farsi@company.com,49,Human Resources,Team Lead,PART-TIME,04 Jul 2023,2435.67,Muscat HQ,poor,17,96787380,2,N
+EMP-0279,Omar Al-Kindi,omar.kindi@company.com,54,Prod,manager,Part Time,2020-08-05,0,Muscat HQ,GOOD,0,+968 9978 3782,,N
+EMP-0009,Mariam Al-Maskari,mariam.maskari@company.com,50,LEGAL,Dir,FREELANCE,2025-13-45,10227.91,Bahrain,Below Average,16,+96892481356,4,YES
+EMP-0221,Ali Al-Maskari,ali.maskari@company.com,50,support,MGR,Contractor,2019-05-07,2546.05,Doha,poor,0,97823508,9,0
+EMP-0282,Mariam   Al-Balushi,None,53,Finance,Vice President,Full-time,2019/09/22,2825.55,Remote,good,2,+96897938605,4,TRUE
+EMP-0283,Salem Al-Hinai,salem.hinai@company.com,34,finance,vp,CONTRACT,18/08/2025,2768.26,Doha,AVERAGE,13,+968 9773 9061,high,Yes
+EMP-0284,Dalal Al-Hinai,dalal.hinai@company.com,25,it,VP,Free Lance,11-04-2019,10606.42,Muscat HQ,Excellent,16,+968 9228 8458,3,0
+EMP-0285,Mona Al-Amri,N/A,28,Legal,intern,Full-time,2017/04/27,13002.26,Bahrain,Exc,0,92865137,9,Y
+EMP-0286,Nasser Al-Hashmi,nasser.hashmi@company.com,31,ENGINEERING,Intern,Freelance,pending,2778.11,Remote,Below average,few,95852464,9,TRUE
+EMP-0287,Nasser Al-Rashdi,nasser.rashdi@company.com,26,legal,INTERN,PART-TIME,09/09/2025,9099.8,Doha,Excellent,few,+96898379110,8,true
+EMP-0288,Huda Al-Balushi,huda.balushi@company.com,61,Finance,Junior,FREELANCE,04 Jun 2017,8701.85,Dubai,Avg,9,97282368,4,yes
+EMP-0289,Omar Al-Suleimani,omar.suleimani@company.com,33,Customer Support,lead,FREELANCE,15-02-2017,2606.13,Bahrain,Average,7,968-9037-8200,5,1
+EMP-0290,  Aisha  Al-Hinai  ,aisha.hinai@company.com,47,Product,MID,Contract,n/a,2777.9,Bahrain,Average,2,+96895802325,7,yes
+EMP-0291,  Fatima  Al-Balushi  ,fatima.balushi@company.com,36,Engineering,junior,Freelance,05-12-2021,2475.49,Bahrain,AVERAGE,13,93892874,1,N
+EMP-0292,  Reem  Al-Amri  ,reem.amri@company.com,25,Mktg,Sr,Full Time,"May 05, 2018",1884.57,Bahrain,good,11,97441397,6,0
+EMP-0293,Yousuf Al-Zadjali,yousuf.zadjali@company.com,35,marketing,MANAGER,Part-time,08 Jan 2017,1102.31,Muscat HQ,AVERAGE,9,+96891001936,10,TRUE
+EMP-0294,Fatima Al-Maskari,name@,23,PRODUCT,MANAGER,Part-time,26 Jul 2021,8656.78,Remote,Avg,23,968-9272-7117,8,N
+EMP-0141,Huda Al-Zadjali,None,60,Engineering,MANAGER,CONTRACT,01-08-2015,8703.84,Doha,Excellent,19,+96897389348,5,1
+EMP-0296,Khalid Al-Amri,khalid.amri@company.com,42,eng.,Lead,CONTRACT,-,5766.16 USD,Muscat HQ,poor,2,968-9956-9151,7,yes
+EMP-0297,Yousuf Al-Amri,yousuf.amri@company.com,61,engineering,Director,contract,pending,11337.02,Bahrain,average,18,NA,2,yes
+EMP-0298,Nasser Al-Zadjali,nasser.zadjali@company.com,55,Customer Support,Dir,PART-TIME,08-06-2018,7119.11,Doha,Average,16,968-9812-2764,8,FALSE
+EMP-0299,Reem Al-Maskari,reem.maskari@company.com,42,Sales,vice president,PART-TIME,2018-03-15,10901.62,Doha,excellent,13,NA,3,TRUE
+EMP-0300,Reem Al-Maskari,reem.maskari@company.com,24,SALES,intern,Free Lance,06 Dec 2017,1989.81,Muscat HQ,POOR,20,968-9735-8269,10,1
