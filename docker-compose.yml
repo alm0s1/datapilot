@@ -100,7 +100,7 @@ services:
 
   cloudflared:
     image: cloudflare/cloudflared:latest
-    command: tunnel --no-autoupdate run --token eyJhIjoiNmRhNDgzNWNhOWEwNWY4MDcxYTljNWMwODVmYmYzZjciLCJ0IjoiNTY3NTAxNTUtNWUxZC00N2QzLThjOTgtNzIzNjkwNDUwNDg0IiwicyI6Ik5UUmpNRFE0WXpRdFpqQmtZUzAwT1RaaUxXRXhNR0V0WVRsaU5qZG1ORGRpTkRVMSJ9
+    command: tunnel --no-autoupdate run --token ${CLOUDFLARE_TUNNEL_TOKEN}
     depends_on:
       - nginx
     restart: unless-stopped
